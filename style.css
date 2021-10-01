@@ -1,0 +1,104 @@
+body {
+	background-color: #D1D5DC;
+	margin: 0;
+}
+
+.title {
+	font-family: 'Ubuntu', sans-serif;
+	color: #111827;
+	margin-top: -0.4%;
+	font-size: 500%;
+}
+
+.subhead {
+	font-family: 'Ubuntu', sans-serif;
+	color: #3b4252;
+	margin-top: -1.7%;
+	font-size: 300%;
+}
+
+.subtitle {
+	font-family: 'Ubuntu', sans-serif;
+	color: #111827;
+	margin-top: 0%;
+	font-size: 460%;
+}
+
+.div-link {
+	margin-top: -0.9%;
+}
+
+.list-inline {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 300%;
+
+	border-style: none;
+	border-top-style: solid;
+
+	background-color: #D1D5DB;
+	width: 30%;
+}
+
+.list-inline-about-main {
+	color: #3b4252;
+
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 290%;
+
+	text-decoration: none;
+
+	background-color: #D1D5DB;
+	/*width: 23.5%;*/
+}
+
+.list-inline-about {
+	color: #3b4252;
+
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 290%;
+
+	text-decoration: none;
+
+	background-color: #D1D5DB;
+	width: 40%;
+}
+
+li {
+  list-style-type: none;
+  /* Убираем маркеры */
+}
+
+ul {
+  margin-left: 0;
+  /* Отступ слева в браузере IE и Opera */
+  padding-left: 0;
+  /* Отступ слева в браузере Firefox, Safari, Chrome */
+}
+
+.link {
+	text-decoration: none;
+
+	color: #3b4252;
+
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 320%;
+
+	padding-right: 1%;
+	padding-left: 1%;
+}
+
+.link:hover {
+	text-decoration: none;
+
+	border-left-style: solid;
+	border-right-style: solid;
+
+
+	color: #3b4252;
+
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 320%;
+
+	padding-right: 1%;
+	padding-left: 1%;
+}
